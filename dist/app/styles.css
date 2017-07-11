@@ -6825,6 +6825,7 @@ body {
 
 .btn-right {
   float: right;
+  margin-bottom: 5%;
 }
 
 .container-fluid {
@@ -6857,11 +6858,11 @@ input, textarea{
 }
 
 .upper {
-  margin-top: 15em;
+  margin-top: 32%;
 }
 
 .middle {
-  margin-top: 2em;
+  margin-top: 5%;
 }
 
 .ty-text {
@@ -6945,7 +6946,7 @@ input, textarea{
 
 .inner p {
   margin-top: 10%;
-  text-align: center;
+  text-align: justify;
   font-size: 120%;
 }
 
@@ -6992,7 +6993,7 @@ section img {
   }
 
   .upper {
-    margin-top: 5em;
+    margin-top: 10%;
   }
 
   .signUpTitle {
@@ -7007,6 +7008,7 @@ section img {
   .successMessage p {
     color: #f9f9f9;
     margin-top: 10% !important;
+    margin-bottom: 10% !important;
   }
 }
 
@@ -7014,7 +7016,7 @@ section img {
 
 }
  .submit-btn {
-   margin-bottom: 5em;
+   margin-bottom: 10%;
  }
 .text-vertical-center {
     display: table-cell;
